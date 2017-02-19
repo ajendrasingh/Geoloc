@@ -9,7 +9,7 @@
     <script type="text/javascript">
         var source, destination;
         var directionsDisplay;
-        //This is to add in github
+        //This is to add in github in Geoloc
         var retriction = { componentRestrictions: { 'country': 'in' } };
 
         var directionsService = new google.maps.DirectionsService();
